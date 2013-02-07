@@ -353,6 +353,16 @@ DEMO CONTENT
   background-position: 0px -39px;
 }
 
+#Taskbar #TaskbarTime {
+  height: 39px;
+  width: 140px;
+  float: right;
+  margin-right: 0px;
+}
+#Taskbar #TaskbarTime.hover {
+  background-position: 0px -39px;
+}
+
 #Start-Menu-Button {
   height: 39px;
   width: 46px;
